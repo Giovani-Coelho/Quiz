@@ -7,4 +7,4 @@ front-end: JavaScript </br>
 Deploy: Netlify
 
 ## visit this project
-link: (https://epic-lamarr-c00d47.netlify.app)
+link: (https://jolly-booth-23418e.netlify.app)
